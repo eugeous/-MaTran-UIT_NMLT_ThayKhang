@@ -102,7 +102,7 @@ void Xuat(int a[][100], int m, int n, string filename)
 }
 
 
-void ThemDong(float a[][100], int& m, int n, int d)
+void ThemDong(int a[][100], int& m, int n, int d)
 {
 	for (int j = 0; j < n; j++)
 	{
